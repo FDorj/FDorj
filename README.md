@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile!
 
-I am a Bachelor's student in Computer Engineering at Amirkabir University of Technology in Tehran. With a budding interest in programming, I have basic knowledge of C, Java, Python, and SQL. My current focus is on enhancing my Python skills, particularly for applications in AI and data science.
+I am a Bachelor's student in Computer Engineering at Amirkabir University of Technology in Tehran. With a budding interest in programming, I have basic knowledge of C, Java and Python. My current focus is on enhancing my Python skills, particularly for applications in AI and data science.
 
 ### 🎓 Education
 - **BSc in Computer Engineering**  
@@ -12,7 +12,7 @@ I am a Bachelor's student in Computer Engineering at Amirkabir University of Tec
 ### 💻 Tech Skills
 While I have foundational knowledge in several programming languages, here are the areas I am actively exploring:
 - **Python**: Currently deepening my expertise, particularly in libraries useful for data analysis and machine learning, such as Pandas, NumPy, and scikit-learn.
-- **C, Java, SQL**: Basic proficiency, providing a strong base for further technical development.
+- **C, Java**: Basic proficiency, providing a strong base for further technical development.
 
 ### 🌐 Interests
 - **AI and Data Science**: Keen on exploring how Python can be leveraged in AI to develop innovative solutions and tools.
