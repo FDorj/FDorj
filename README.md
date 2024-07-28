@@ -1,4 +1,4 @@
-**Hello, I'm Dorj! 👋**
+## Hello, I'm Dorj! 👋
 
 I'm a Computer Engineering student at Amirkabir University of Technology, Tehran, graduating in 2025. I have foundational knowledge in C, Java, and Python, with a focus on enhancing my Python skills for AI and data science.
 
