@@ -1,33 +1,57 @@
+<div align="center">
+
 # Hi there, I'm Dorj! 👋
 
-I'm a **Data Analyst** currently working at **Snappfood**.
-I graduated in Computer Engineering from Amirkabir University of Technology (2025). I am passionate about processing large datasets and turning raw data into actionable insights using Python and SQL.
+### Data Analyst @ <a href="https://snappfood.ir" target="_blank">Snappfood</a>
+
+I'm a Computer Engineering graduate from **Amirkabir University of Technology (2025)**.
+Currently extracting insights from food delivery data using **PySpark** and **SQL**, and orchestrating workflows with **Airflow**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages and Tools
 
-* **Languages:** Python, SQL, Java, C
-* **Big Data & Processing:** PySpark, Pandas, NumPy
-* **Visualization & BI:** Metabase
-* **Currently Learning:** Apache Airflow 🌪️
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
-
-### 🔭 What's Next?
-
-My journey involves moving deeper into **Data Engineering** (mastering Airflow) and eventually transitioning towards **Data Science** to build predictive models and advanced analytics solutions.
-
----
-
-### ⚡ Interests
-
-* **Data Science:** Exploring innovative AI solutions.
-* **Gaming:** Huge fan of **Dota 2** and **Counter-Strike**.
+</div>
 
 ---
 
-### 📫 Connect with me
+### 📊 About Me & My Journey
 
-Reach me for discussions on Data Analysis, Tech, or Gaming!
-* 📧 **Email:** [f.dorj2@gmail.com](mailto:f.dorj2@gmail.com)
+- 🔭 **Current Role:** Working as a Data Analyst at **Snappfood**, handling large-scale datasets.
+- 🌱 **Learning:** Currently mastering **Apache Airflow** for better pipeline orchestration.
+- 🎯 **Future Goal:** Transitioning into **Data Science** & Machine Learning.
+- 👯 **Looking to collaborate on:** Open source data engineering or analysis projects.
+- 🎮 **Fun Fact:** When I'm not querying DBs, I'm ranking up in **Dota 2** or **Counter-Strike**.
+
+---
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+
+</div>
+
+---
+
+<div align="center">
+  <p>Reach me via Email:</p>
+  <a href="mailto:f.dorj2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
