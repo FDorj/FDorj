@@ -1,18 +1,33 @@
-## Hello, I'm Dorj! 👋
+# Hi there, I'm Dorj! 👋
 
-I'm a Computer Engineering student at Amirkabir University of Technology, Tehran, graduating in 2025. I have foundational knowledge in C, Java, and Python, with a focus on enhancing my Python skills for AI and data science.
+I'm a **Data Analyst** currently working at **Snappfood**.
+I graduated in Computer Engineering from Amirkabir University of Technology (2025). I am passionate about processing large datasets and turning raw data into actionable insights using Python and SQL.
 
-### Tech Skills
-- **Python**: Improving skills in libraries like Pandas, NumPy, and scikit-learn.
-- **C, Java**: Basic proficiency.
+---
 
-### Interests
-- **AI and Data Science**: Exploring innovative solutions with Python.
-- **Gaming**: Enjoy playing Dota 2 and Counter-Strike.
+### 🛠️ Tech Stack & Tools
 
-### Currently Learning
-- Machine learning algorithms and data visualization in Python.
+* **Languages:** Python, SQL, Java, C
+* **Big Data & Processing:** PySpark, Pandas, NumPy
+* **Visualization & BI:** Metabase
+* **Currently Learning:** Apache Airflow 🌪️
 
-### Contact
-Reach me on GitHub or email at [f.dorj2@gmail.com](mailto:f.dorj2@gmail.com) for discussions on AI, tech, or gaming!
+---
 
+### 🔭 What's Next?
+
+My journey involves moving deeper into **Data Engineering** (mastering Airflow) and eventually transitioning towards **Data Science** to build predictive models and advanced analytics solutions.
+
+---
+
+### ⚡ Interests
+
+* **Data Science:** Exploring innovative AI solutions.
+* **Gaming:** Huge fan of **Dota 2** and **Counter-Strike**.
+
+---
+
+### 📫 Connect with me
+
+Reach me for discussions on Data Analysis, Tech, or Gaming!
+* 📧 **Email:** [f.dorj2@gmail.com](mailto:f.dorj2@gmail.com)
