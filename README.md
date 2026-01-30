@@ -4,7 +4,7 @@
 
 ### Data Analyst @ <a href="https://snappfood.ir" target="_blank">Snappfood</a>
 
-I'm a Computer Engineering graduate from **Amirkabir University of Technology (2025)**.
+I'm a Computer Engineering graduate from **Amirkabir University of Technology (202۶)**.
 Currently extracting insights from food delivery data using **PySpark** and **SQL**, and orchestrating workflows with **Airflow**.
 
 ---
