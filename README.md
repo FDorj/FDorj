@@ -39,12 +39,8 @@ Currently extracting insights from food delivery data using **PySpark** and **SQ
 ---
 
 <div align="center">
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=FDorj&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FDorj&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FDorj&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FDorj&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </div>
 
 ---
